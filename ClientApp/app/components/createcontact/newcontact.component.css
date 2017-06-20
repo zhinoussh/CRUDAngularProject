@@ -1,0 +1,13 @@
+﻿.btn-success {
+    min-width: 100%;
+}
+
+.invalid {
+color:red;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}

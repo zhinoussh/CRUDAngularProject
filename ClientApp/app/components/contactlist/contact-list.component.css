@@ -1,0 +1,13 @@
+﻿.thead-default {
+    background-color: #d2e9ef;
+    color: #05576c;
+}
+
+.glyphicon-edit, .glyphicon-trash{
+    font-size: 13pt;
+    cursor: pointer;
+}
+
+a {
+text-decoration:none;
+}
